@@ -1,0 +1,14 @@
+{
+	"installed_packages":
+	[
+		"BeautifyRuby",
+		"BracketHighlighter",
+		"Colorsublime",
+		"ERB Snippets",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-ruby"
+	]
+}
